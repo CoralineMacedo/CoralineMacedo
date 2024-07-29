@@ -1,16 +1,15 @@
-## Hi there 👋
+### Welcome to my profile ❤️
 
-<!--
-**CoralineMacedo/CoralineMacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Carolina Machado de Macedo
 
-Here are some ideas to get you started:
+- I'm studying at ![Alura](https://www.alura.com.br/)
+- I'm developing in the JavaScript language
+- I use this space to organize and share my developed projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can contact me 📭
+
+00001125159704sp@al.educacao.sp.gov.br
+
+00001125159704sp@aluno.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/oTeBa4EVepMAAAAC/business-cat-working.gif)
